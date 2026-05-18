@@ -1,7 +1,16 @@
 # GAE-Codes
 
 ```text
-write these codes in main.py inside the folder u made on desktop
+FOR REFERENCE:
+
+Click Preference, then-
+Python Path: Whereever it is:\Python27\pythonw.exe
+App Engine SDK: Whereever it is:\Program Files (x86)\Google\google_appengine
+
+Then create a folder on Desktop,then-
+Open GAE -> File -> create new application -> Parent Directory:(Browse your folder that u made on desktop) -> Done
+
+Write below codes in main.py inside the folder u made on desktop
 then run it in GAE, after that use port number to run localhost
 ```
 
